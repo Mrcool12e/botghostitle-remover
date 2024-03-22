@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Death Or Glory!","Watching Cool's British Army"];
+const statusMessages = ["Playing Death Or Glory!","Watching Cool's British Army","Protecting CBA!"];
 
 
 let currentIndex = 0;
